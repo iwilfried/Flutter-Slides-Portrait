@@ -73,7 +73,7 @@ class SlideZero extends StatelessWidget {
                   ? Column(
                       children: [
                         AutoSizeText(
-                          'Information',
+                          'How I Remember',
                           maxLines: 1,
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
@@ -82,7 +82,7 @@ class SlideZero extends StatelessWidget {
                           )),
                         ),
                         AutoSizeText(
-                          'Overload',
+                          'Everything I Read',
                           maxLines: 1,
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
@@ -96,7 +96,7 @@ class SlideZero extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         AutoSizeText(
-                          'Information ',
+                          'How I Remember',
                           maxLines: 1,
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
@@ -105,7 +105,7 @@ class SlideZero extends StatelessWidget {
                           )),
                         ),
                         AutoSizeText(
-                          'Overload',
+                          'Everything I Read',
                           maxLines: 1,
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
