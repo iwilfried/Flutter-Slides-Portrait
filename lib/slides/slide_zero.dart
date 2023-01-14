@@ -78,7 +78,7 @@ class SlideZero extends StatelessWidget {
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
                             color: Theme.of(context).primaryColor,
-                            fontSize: 48,
+                            fontSize: 36,
                           )),
                         ),
                         AutoSizeText(
@@ -87,7 +87,7 @@ class SlideZero extends StatelessWidget {
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
                             color: Theme.of(context).primaryColor,
-                            fontSize: 48,
+                            fontSize: 36,
                           )),
                         ),
                       ],
@@ -101,7 +101,7 @@ class SlideZero extends StatelessWidget {
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
                             color: Theme.of(context).primaryColor,
-                            fontSize: 48,
+                            fontSize: 36,
                           )),
                         ),
                         AutoSizeText(
@@ -110,7 +110,7 @@ class SlideZero extends StatelessWidget {
                           style: GoogleFonts.oswald(
                               textStyle: TextStyle(
                             color: Theme.of(context).primaryColor,
-                            fontSize: 48,
+                            fontSize: 36,
                           )),
                         ),
                       ],
